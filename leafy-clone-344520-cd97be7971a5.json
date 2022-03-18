@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "leafy-clone-344520",
+  "private_key_id": "cd97be7971a5fc08662a5a5ea1ef442eb23cc168",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9gY+kUXkgSPSo\nXLiYEXE8Rfss83DQ0J3XBhEGMrIhSTAY9PgW1lppcBAIkbE54qxSfU/lJ6SAX+xe\nxybBbpSqQ54ccP8pAZySRlv0hHGypgmqhC6laD2JSl9DW3ecCWGauZqNTpNjWsW/\npPN2z2EMo7J5yVP953Ct5xdfoN9Xn7wG7RdBTD8LWSb6WkQTmCTB2vsSIIbZEbRH\n/afh3fOyvDUKOgmNdkJOIqAqqkY9u1OuQsMZYxy8K1/AScOA8QnoQcm6PjlklnO2\niJO80zJaPVRVtbIVrOkM17OeqKbtHWwpHwp0TKSoUfW+IiU2i9lp5qse18KNdKAs\nRXEMBzvNAgMBAAECggEAEPqLc9mv3EZlEzORf2BqsI+FkFK0XCUgyyvaOR+wKX7M\n7iN+mc81NQarDRV+lzTZox9imeGqIa1WeGxn6sM9Ux7xStON7O7dyBZBNWBrbmnl\nak9i/YNgJg2RiO+oQQTvJ4VzFS+B0ZBHsOK2xIGSjKca/cHdwl0q0Y3noHQBprA7\nf3/nuN/tX1yYjpRvxzJyGqACMpOMN6+kO2AB7jdayx4bz8uIjGP7ixUgx2zxuc7t\nKUYzFHc2aXiB/LoHAoZ6Jf/IHYpLar9ix6hWqHb+tstoVIXAoSIrsFbNbuYnQjDR\n47LD3r0pwbTOayDGKypVPDeZjMlHleF1h0ai1vTdYQKBgQD7ja6pnyRSgJpXA5J3\nSp9N8mZ4fpMPjYknseC9/RZT9c19FcP6G8Tq/QHoVvwnIBGdrX+GH/ZyTSD3+JXb\nhemCcH6fSeHy+c9kFXbsXDDociSZmmyEkwqMR/r/H6jKZj1Mq7tSkJjRPZam/7aD\nAdzByJVKkb9aErjJR1DMd9YPbQKBgQDA2xroVFY8mSJfjyWbxj+NxM0e+4vcoTi+\n2tXuxyGW2Flwqh8WhXPTjFlZB8KE4sEt4SNQY+mEASdmeQoUUWuq5Ihxw1fn+xCW\nwA0unjMKAtxfZUXsTXxBCjTAXjAQTpYW0Bmm+RjVQ8B1Kv6MRHdxa1QGZ7eMbizn\nyhpGOj1B4QKBgQC+6lH0ZFbB0t7QSWLA7L6o/t6sdowQUsAUg1jpeIqYoEYbuAgr\n6yVxnyHyfwoSe7FC9WmClwGI0GbELEM3/5Mwr0Y6iG1W5idzcyL10iZAVFjYxy2z\nFJH906d4N0P4kM3XQcMCr8F7lH2hMxQGq8QqwpwjoygSKYFbKaf19sFcpQKBgB9N\n8Yow1mazvL6iL8qfXYWXomwbDNLdYKaqQvulWzBvIeWF19ICC5EVQROQjOShIhZe\naysLbMY+obSihR5TMRTmT7eXq9c+C61Ms1cT2tkPKdJaUAVRdo/gJjvrjgW3m+lM\nEj3mRT+o5b6fIf6GxpSkhVkc0NB8udFOHwGzRmpBAoGBALFj41lM+z2QFJPB+/eo\npWzMCvkfTtUc2l84TSPdO5pVTOL5u7yJ3K4GAboJg6zw1vcVM+0d4LuI/x5YJqcP\nAf2eYpP2lXU4kRt6IpU5cJN0wI9cFxAQOPohm1k03hzVzNqeimd8+l/RKajcqm5e\nIYLRzv6syE9tyt4X4zJl94aB\n-----END PRIVATE KEY-----\n",
+  "client_email": "jopanegra-test-gmail-com@leafy-clone-344520.iam.gserviceaccount.com",
+  "client_id": "108377390314905403591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jopanegra-test-gmail-com%40leafy-clone-344520.iam.gserviceaccount.com"
+}
